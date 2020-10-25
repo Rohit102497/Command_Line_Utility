@@ -1,0 +1,371 @@
+root - INFO - New Session started 
+ --------------------------------------------------------------------------------
+root - DEBUG - Debug message
+root - INFO - All running good
+root - WARNING - Watch out!
+website_logger - INFO - Arguments recieved from command line.
+website_logger - INFO - Crawling https://fast.com/
+website_logger - INFO - Time when crawling started: 2020/10/14 16:12:26 IST
+website_logger - INFO - HTML of the URL successfully parsed and returned as bytes object
+website_logger - INFO - HTML of the URL decoded into a str object
+website_logger - INFO - First level links are successfully accumulated
+website_logger - INFO - Checking link: https://fast.com/fr/
+website_logger - INFO - HTML of the URL successfully parsed and returned as bytes object
+website_logger - INFO - Internal link: https://fast.com/fr/
+website_logger - INFO - Crawling https://fast.com/fr/
+website_logger - INFO - HTML of the URL decoded into a str object
+website_logger - INFO - Link is crawled and urls are added
+website_logger - INFO - Checking link: https://fast.com/fi/
+website_logger - INFO - HTML of the URL successfully parsed and returned as bytes object
+website_logger - INFO - Internal link: https://fast.com/fi/
+website_logger - INFO - Crawling https://fast.com/fi/
+website_logger - INFO - HTML of the URL decoded into a str object
+website_logger - INFO - Link is crawled and urls are added
+website_logger - INFO - Checking link: https://fast.com/nb/
+website_logger - INFO - HTML of the URL successfully parsed and returned as bytes object
+website_logger - INFO - Internal link: https://fast.com/nb/
+website_logger - INFO - Crawling https://fast.com/nb/
+website_logger - INFO - HTML of the URL decoded into a str object
+website_logger - INFO - Link is crawled and urls are added
+website_logger - INFO - Checking link: https://fast.com/assets/favicons/apple-icon-152x152.png
+website_logger - INFO - HTML of the URL successfully parsed and returned as bytes object
+website_logger - INFO - Internal link: https://fast.com/assets/favicons/apple-icon-152x152.png
+website_logger - INFO - Checking link: https://fast.com/assets/favicons/apple-icon-60x60.png
+website_logger - INFO - HTML of the URL successfully parsed and returned as bytes object
+website_logger - INFO - Internal link: https://fast.com/assets/favicons/apple-icon-60x60.png
+website_logger - INFO - Checking link: https://fast.com/tr/
+website_logger - INFO - HTML of the URL successfully parsed and returned as bytes object
+website_logger - INFO - Internal link: https://fast.com/tr/
+website_logger - INFO - Crawling https://fast.com/tr/
+website_logger - INFO - HTML of the URL decoded into a str object
+website_logger - INFO - Link is crawled and urls are added
+website_logger - INFO - Checking link: https://fast.com/assets/favicons/favicon.ico
+website_logger - INFO - HTML of the URL successfully parsed and returned as bytes object
+website_logger - INFO - Internal link: https://fast.com/assets/favicons/favicon.ico
+website_logger - INFO - Checking link: https://fast.com/de/
+website_logger - INFO - HTML of the URL successfully parsed and returned as bytes object
+website_logger - INFO - Internal link: https://fast.com/de/
+website_logger - INFO - Crawling https://fast.com/de/
+website_logger - INFO - HTML of the URL decoded into a str object
+website_logger - INFO - Link is crawled and urls are added
+website_logger - INFO - Checking link: https://fast.com/pt/pt/
+website_logger - INFO - HTML of the URL successfully parsed and returned as bytes object
+website_logger - INFO - Internal link: https://fast.com/pt/pt/
+website_logger - INFO - Crawling https://fast.com/pt/pt/
+website_logger - INFO - HTML of the URL decoded into a str object
+website_logger - INFO - Link is crawled and urls are added
+website_logger - INFO - Checking link: https://fast.com/assets/favicons/favicon-32x32.png
+website_logger - INFO - HTML of the URL successfully parsed and returned as bytes object
+website_logger - INFO - Internal link: https://fast.com/assets/favicons/favicon-32x32.png
+website_logger - INFO - Checking link: https://fast.com/he/
+website_logger - INFO - HTML of the URL successfully parsed and returned as bytes object
+website_logger - INFO - Internal link: https://fast.com/he/
+website_logger - INFO - Crawling https://fast.com/he/
+website_logger - INFO - HTML of the URL decoded into a str object
+website_logger - INFO - Link is crawled and urls are added
+website_logger - INFO - Checking link: https://fast.com/el/
+website_logger - INFO - HTML of the URL successfully parsed and returned as bytes object
+website_logger - INFO - Internal link: https://fast.com/el/
+website_logger - INFO - Crawling https://fast.com/el/
+website_logger - INFO - HTML of the URL decoded into a str object
+website_logger - INFO - Link is crawled and urls are added
+website_logger - INFO - Checking link: https://fast.com/assets/favicons/apple-icon-76x76.png
+website_logger - INFO - HTML of the URL successfully parsed and returned as bytes object
+website_logger - INFO - Internal link: https://fast.com/assets/favicons/apple-icon-76x76.png
+website_logger - INFO - Checking link: https://fast.com/zh/cn/
+website_logger - INFO - HTML of the URL successfully parsed and returned as bytes object
+website_logger - INFO - Internal link: https://fast.com/zh/cn/
+website_logger - INFO - Crawling https://fast.com/zh/cn/
+website_logger - INFO - HTML of the URL decoded into a str object
+website_logger - INFO - Link is crawled and urls are added
+website_logger - INFO - Checking link: https://fast.com/es/es/
+website_logger - INFO - HTML of the URL successfully parsed and returned as bytes object
+website_logger - INFO - Internal link: https://fast.com/es/es/
+website_logger - INFO - Crawling https://fast.com/es/es/
+website_logger - INFO - HTML of the URL decoded into a str object
+website_logger - INFO - Link is crawled and urls are added
+website_logger - INFO - Checking link: https://fast.com/es/
+website_logger - INFO - HTML of the URL successfully parsed and returned as bytes object
+website_logger - INFO - Internal link: https://fast.com/es/
+website_logger - INFO - Crawling https://fast.com/es/
+website_logger - INFO - HTML of the URL decoded into a str object
+website_logger - INFO - Link is crawled and urls are added
+website_logger - INFO - Checking link: https://fast.com/assets/favicons/favicon-16x16.png
+website_logger - INFO - HTML of the URL successfully parsed and returned as bytes object
+website_logger - INFO - Internal link: https://fast.com/assets/favicons/favicon-16x16.png
+website_logger - INFO - Checking link: https://fast.com/assets/favicons/favicon-96x96.png
+website_logger - INFO - HTML of the URL successfully parsed and returned as bytes object
+website_logger - INFO - Internal link: https://fast.com/assets/favicons/favicon-96x96.png
+website_logger - INFO - Checking link: https://fast.com/assets/favicons/apple-icon-57x57.png
+website_logger - INFO - HTML of the URL successfully parsed and returned as bytes object
+website_logger - INFO - Internal link: https://fast.com/assets/favicons/apple-icon-57x57.png
+website_logger - INFO - Checking link: https://fast.com/it/
+website_logger - INFO - HTML of the URL successfully parsed and returned as bytes object
+website_logger - INFO - Internal link: https://fast.com/it/
+website_logger - INFO - Crawling https://fast.com/it/
+website_logger - INFO - HTML of the URL decoded into a str object
+website_logger - INFO - Link is crawled and urls are added
+website_logger - INFO - Checking link: https://fast.com/assets/favicons/apple-icon-180x180.png
+website_logger - INFO - HTML of the URL successfully parsed and returned as bytes object
+website_logger - INFO - Internal link: https://fast.com/assets/favicons/apple-icon-180x180.png
+website_logger - INFO - Checking link: http://netflix.com
+website_logger - INFO - HTML of the URL successfully parsed and returned as bytes object
+website_logger - INFO - External link: http://netflix.com
+website_logger - INFO - Checking link: https://fast.com/nl/
+website_logger - INFO - HTML of the URL successfully parsed and returned as bytes object
+website_logger - INFO - Internal link: https://fast.com/nl/
+website_logger - INFO - Crawling https://fast.com/nl/
+website_logger - INFO - HTML of the URL decoded into a str object
+website_logger - INFO - Link is crawled and urls are added
+website_logger - INFO - Checking link: https://fast.com/assets/fonts/oc-webfont.min.css
+website_logger - INFO - HTML of the URL successfully parsed and returned as bytes object
+website_logger - INFO - Internal link: https://fast.com/assets/fonts/oc-webfont.min.css
+website_logger - INFO - Crawling https://fast.com/assets/fonts/oc-webfont.min.css
+website_logger - INFO - HTML of the URL decoded into a str object
+website_logger - INFO - Link is crawled and urls are added
+website_logger - INFO - Checking link: https://fast.com/ko/
+website_logger - INFO - HTML of the URL successfully parsed and returned as bytes object
+website_logger - INFO - Internal link: https://fast.com/ko/
+website_logger - INFO - Crawling https://fast.com/ko/
+website_logger - INFO - HTML of the URL decoded into a str object
+website_logger - INFO - Link is crawled and urls are added
+website_logger - INFO - Checking link: https://fast.com/en/gb/
+website_logger - INFO - HTML of the URL successfully parsed and returned as bytes object
+website_logger - INFO - Internal link: https://fast.com/en/gb/
+website_logger - INFO - Crawling https://fast.com/en/gb/
+website_logger - INFO - HTML of the URL decoded into a str object
+website_logger - INFO - Link is crawled and urls are added
+website_logger - INFO - Checking link: https://fast.com/pl/
+website_logger - INFO - HTML of the URL successfully parsed and returned as bytes object
+website_logger - INFO - Internal link: https://fast.com/pl/
+website_logger - INFO - Crawling https://fast.com/pl/
+website_logger - INFO - HTML of the URL decoded into a str object
+website_logger - INFO - Link is crawled and urls are added
+website_logger - INFO - Checking link: https://fast.com/assets/favicons/manifest.json
+website_logger - INFO - HTML of the URL successfully parsed and returned as bytes object
+website_logger - INFO - Internal link: https://fast.com/assets/favicons/manifest.json
+website_logger - INFO - Crawling https://fast.com/assets/favicons/manifest.json
+website_logger - INFO - HTML of the URL decoded into a str object
+website_logger - INFO - Link is crawled and urls are added
+website_logger - INFO - Checking link: https://fast.com/assets/favicons/apple-icon-144x144.png
+website_logger - INFO - HTML of the URL successfully parsed and returned as bytes object
+website_logger - INFO - Internal link: https://fast.com/assets/favicons/apple-icon-144x144.png
+website_logger - INFO - Checking link: https://fast.com/app-233b5b.js
+website_logger - INFO - HTML of the URL successfully parsed and returned as bytes object
+website_logger - INFO - Internal link: https://fast.com/app-233b5b.js
+website_logger - INFO - Crawling https://fast.com/app-233b5b.js
+website_logger - INFO - HTML of the URL decoded into a str object
+website_logger - INFO - Link is crawled and urls are added
+website_logger - INFO - Checking link: https://fast.com/assets/favicons/android-icon-192x192.png
+website_logger - INFO - HTML of the URL successfully parsed and returned as bytes object
+website_logger - INFO - Internal link: https://fast.com/assets/favicons/android-icon-192x192.png
+website_logger - INFO - Checking link: https://fast.com/ar/
+website_logger - INFO - HTML of the URL successfully parsed and returned as bytes object
+website_logger - INFO - Internal link: https://fast.com/ar/
+website_logger - INFO - Crawling https://fast.com/ar/
+website_logger - INFO - HTML of the URL decoded into a str object
+website_logger - INFO - Link is crawled and urls are added
+website_logger - INFO - Checking link: https://speedtest.net
+website_logger - INFO - HTML of the URL successfully parsed and returned as bytes object
+website_logger - INFO - External link: https://speedtest.net
+website_logger - INFO - Checking link: https://fast.com/#
+website_logger - INFO - HTML of the URL successfully parsed and returned as bytes object
+website_logger - INFO - Internal link: https://fast.com/#
+website_logger - INFO - Crawling https://fast.com/#
+website_logger - INFO - HTML of the URL decoded into a str object
+website_logger - INFO - Link is crawled and urls are added
+website_logger - INFO - Checking link: https://fast.com/pt/
+website_logger - INFO - HTML of the URL successfully parsed and returned as bytes object
+website_logger - INFO - Internal link: https://fast.com/pt/
+website_logger - INFO - Crawling https://fast.com/pt/
+website_logger - INFO - HTML of the URL decoded into a str object
+website_logger - INFO - Link is crawled and urls are added
+website_logger - INFO - Checking link: https://fast.com/zh/tw/
+website_logger - INFO - HTML of the URL successfully parsed and returned as bytes object
+website_logger - INFO - Internal link: https://fast.com/zh/tw/
+website_logger - INFO - Crawling https://fast.com/zh/tw/
+website_logger - INFO - HTML of the URL decoded into a str object
+website_logger - INFO - Link is crawled and urls are added
+website_logger - INFO - Checking link: https://fast.com/fr/ca/
+website_logger - INFO - HTML of the URL successfully parsed and returned as bytes object
+website_logger - INFO - Internal link: https://fast.com/fr/ca/
+website_logger - INFO - Crawling https://fast.com/fr/ca/
+website_logger - INFO - HTML of the URL decoded into a str object
+website_logger - INFO - Link is crawled and urls are added
+website_logger - INFO - Checking link: https://fast.com/assets/favicons/apple-icon-120x120.png
+website_logger - INFO - HTML of the URL successfully parsed and returned as bytes object
+website_logger - INFO - Internal link: https://fast.com/assets/favicons/apple-icon-120x120.png
+website_logger - INFO - Checking link: https://fast.com/ja/
+website_logger - INFO - HTML of the URL successfully parsed and returned as bytes object
+website_logger - INFO - Internal link: https://fast.com/ja/
+website_logger - INFO - Crawling https://fast.com/ja/
+website_logger - INFO - HTML of the URL decoded into a str object
+website_logger - INFO - Link is crawled and urls are added
+website_logger - INFO - Checking link: https://fast.com/id/
+website_logger - INFO - HTML of the URL successfully parsed and returned as bytes object
+website_logger - INFO - Internal link: https://fast.com/id/
+website_logger - INFO - Crawling https://fast.com/id/
+website_logger - INFO - HTML of the URL decoded into a str object
+website_logger - INFO - Link is crawled and urls are added
+website_logger - INFO - Checking link: https://fast.com/app-809f4b.css
+website_logger - INFO - HTML of the URL successfully parsed and returned as bytes object
+website_logger - INFO - Internal link: https://fast.com/app-809f4b.css
+website_logger - INFO - Crawling https://fast.com/app-809f4b.css
+website_logger - INFO - HTML of the URL decoded into a str object
+website_logger - INFO - Link is crawled and urls are added
+website_logger - INFO - Checking link: https://fast.com/th/
+website_logger - INFO - HTML of the URL successfully parsed and returned as bytes object
+website_logger - INFO - Internal link: https://fast.com/th/
+website_logger - INFO - Crawling https://fast.com/th/
+website_logger - INFO - HTML of the URL decoded into a str object
+website_logger - INFO - Link is crawled and urls are added
+website_logger - INFO - Checking link: https://fast.com/assets/favicons/apple-icon-72x72.png
+website_logger - INFO - HTML of the URL successfully parsed and returned as bytes object
+website_logger - INFO - Internal link: https://fast.com/assets/favicons/apple-icon-72x72.png
+website_logger - INFO - Checking link: https://medium.com/netflix-techblog/building-fast-com-4857fe0f8adb
+website_logger - ERROR - HTML could not be generated. Check URL..
+website_logger - INFO - Broken link: https://medium.com/netflix-techblog/building-fast-com-4857fe0f8adb
+website_logger - INFO - Checking link: https://fast.com/assets/favicons/apple-icon-114x114.png
+website_logger - INFO - HTML of the URL successfully parsed and returned as bytes object
+website_logger - INFO - Internal link: https://fast.com/assets/favicons/apple-icon-114x114.png
+website_logger - INFO - Checking link: https://fast.com
+website_logger - INFO - HTML of the URL successfully parsed and returned as bytes object
+website_logger - INFO - External link: https://fast.com
+website_logger - INFO - Checking link: https://fast.com/sv/
+website_logger - INFO - HTML of the URL successfully parsed and returned as bytes object
+website_logger - INFO - Internal link: https://fast.com/sv/
+website_logger - INFO - Crawling https://fast.com/sv/
+website_logger - INFO - HTML of the URL decoded into a str object
+website_logger - INFO - Link is crawled and urls are added
+website_logger - INFO - Checking link: https://fast.com/ro/
+website_logger - INFO - HTML of the URL successfully parsed and returned as bytes object
+website_logger - INFO - Internal link: https://fast.com/ro/
+website_logger - INFO - Crawling https://fast.com/ro/
+website_logger - INFO - HTML of the URL decoded into a str object
+website_logger - INFO - Link is crawled and urls are added
+website_logger - INFO - Checking link: https://fast.com/da/
+website_logger - INFO - HTML of the URL successfully parsed and returned as bytes object
+website_logger - INFO - Internal link: https://fast.com/da/
+website_logger - INFO - Crawling https://fast.com/da/
+website_logger - INFO - HTML of the URL decoded into a str object
+website_logger - INFO - Link is crawled and urls are added
+website_logger - INFO - Checking link: https://www.dslreports.com
+website_logger - INFO - HTML of the URL successfully parsed and returned as bytes object
+website_logger - INFO - External link: https://www.dslreports.com
+website_logger - INFO - Internal links, External links and Broken links grouped into dictionaries
+website_logger - INFO - Total links calculated
+website_logger - INFO - Total images calculated
+website_logger - INFO - Crawling ended successfully
+website_logger - INFO - crawled website data added to shelve database successfully
+website_logger - INFO - Crawled report of 8b76b2 added to website_data database.
+website_logger - INFO - crawled data added to main database successfully..
+website_logger - INFO - Crawled report of 8b76b2 added to main database.
+root - INFO - New Session started 
+ --------------------------------------------------------------------------------
+root - DEBUG - Debug message
+root - INFO - All running good
+root - WARNING - Watch out!
+website_logger - INFO - Arguments recieved from command line.
+website_logger - INFO - Crawling url
+website_logger - INFO - Time when crawling started: 2020/10/14 16:14:09 IST
+website_logger - ERROR - HTML could not be generated. Check URL..
+website_logger - ERROR - The given URL is broken or does not exist. Program ending..
+website_logger - ERROR - unknown url type: 'url'
+root - INFO - New Session started 
+ --------------------------------------------------------------------------------
+root - DEBUG - Debug message
+root - INFO - All running good
+root - WARNING - Watch out!
+website_logger - INFO - Arguments recieved from command line.
+website_logger - INFO - All the crawled reports displayed
+website_logger - INFO - List reports printed to terminal
+root - INFO - New Session started 
+ --------------------------------------------------------------------------------
+root - DEBUG - Debug message
+root - INFO - All running good
+root - WARNING - Watch out!
+website_logger - INFO - Arguments recieved from command line.
+root - INFO - New Session started 
+ --------------------------------------------------------------------------------
+root - DEBUG - Debug message
+root - INFO - All running good
+root - WARNING - Watch out!
+website_logger - INFO - Arguments recieved from command line.
+root - INFO - New Session started 
+ --------------------------------------------------------------------------------
+root - DEBUG - Debug message
+root - INFO - All running good
+root - WARNING - Watch out!
+website_logger - INFO - Arguments recieved from command line.
+website_logger - INFO - Reports of website with report-id 8b76b2 displayed on terminal
+website_logger - INFO - Link Report generated according to the format chosen by user
+root - INFO - New Session started 
+ --------------------------------------------------------------------------------
+root - DEBUG - Debug message
+root - INFO - All running good
+root - WARNING - Watch out!
+website_logger - INFO - Arguments recieved from command line.
+website_logger - INFO - Reports of website with report-id 8b76b2 displayed on terminal
+website_logger - INFO - 8b76b2.yaml file is generated successfully in the /Users/rohiagar/Desktop/PythonBootcamp/project/git_repo/PY_3_test/PY_3/database
+website_logger - INFO - Link Report generated according to the format chosen by user
+root - INFO - New Session started 
+ --------------------------------------------------------------------------------
+root - DEBUG - Debug message
+root - INFO - All running good
+root - WARNING - Watch out!
+website_logger - INFO - Arguments recieved from command line.
+website_logger - INFO - 8b76b2.json file is generated successfully in the /Users/rohiagar/Desktop/PythonBootcamp/project/git_repo/PY_3_test/PY_3/database
+website_logger - INFO - Link Report generated according to the format chosen by user
+root - INFO - New Session started 
+ --------------------------------------------------------------------------------
+root - DEBUG - Debug message
+root - INFO - All running good
+root - WARNING - Watch out!
+website_logger - INFO - Arguments recieved from command line.
+website_logger - INFO - Reports of website with report-id 8b76b2 displayed on terminal
+website_logger - INFO - 8b76b2.csv file is generated successfully in the /Users/rohiagar/Desktop/PythonBootcamp/project/git_repo/PY_3_test/PY_3/database
+website_logger - INFO - Link Report generated according to the format chosen by user
+root - INFO - New Session started 
+ --------------------------------------------------------------------------------
+root - DEBUG - Debug message
+root - INFO - All running good
+root - WARNING - Watch out!
+website_logger - INFO - Arguments recieved from command line.
+website_logger - INFO - 8b76b2.yaml file is generated successfully in the /Users/rohiagar/Desktop/PythonBootcamp/project/git_repo/PY_3_test/PY_3/database
+website_logger - INFO - 8b76b2.json file is generated successfully in the /Users/rohiagar/Desktop/PythonBootcamp/project/git_repo/PY_3_test/PY_3/database
+website_logger - INFO - Link Report generated according to the format chosen by user
+root - INFO - New Session started 
+ --------------------------------------------------------------------------------
+root - DEBUG - Debug message
+root - INFO - All running good
+root - WARNING - Watch out!
+website_logger - INFO - Arguments recieved from command line.
+root - INFO - New Session started 
+ --------------------------------------------------------------------------------
+root - DEBUG - Debug message
+root - INFO - All running good
+root - WARNING - Watch out!
+website_logger - INFO - Arguments recieved from command line.
+website_logger - INFO - Wrong report-id entered
+website_logger - INFO - Link Report generated according to the format chosen by user
+root - INFO - New Session started 
+ --------------------------------------------------------------------------------
+root - DEBUG - Debug message
+root - INFO - All running good
+root - WARNING - Watch out!
+root - INFO - New Session started 
+ --------------------------------------------------------------------------------
+root - DEBUG - Debug message
+root - INFO - All running good
+root - WARNING - Watch out!
+website_logger - INFO - Arguments recieved from command line.
+website_logger - INFO - All the crawled reports displayed
+website_logger - INFO - List reports printed to terminal
+root - INFO - New Session started 
+ --------------------------------------------------------------------------------
+root - DEBUG - Debug message
+root - INFO - All running good
+root - WARNING - Watch out!
+website_logger - INFO - Arguments recieved from command line.
+website_logger - INFO - Reports of website with report-id 8b76b2 displayed on terminal
+website_logger - INFO - Link Report generated according to the format chosen by user
